@@ -8,5 +8,9 @@ public class PaythanGitup {
 		int b = 100;
 
 	}
-
+	//this is from gitup.
+	public void printName(){
+		
+	}
+	
 }
